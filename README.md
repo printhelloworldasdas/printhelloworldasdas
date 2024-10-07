@@ -6,8 +6,8 @@
 - Creative coding 🎨
 
 📫 How to reach me:
-- Email: your_email@example.com 📧
-- Twitter: @your_twitter_handle 🐦
+- Email: not for now 📧
+- Twitter: i will create 🐦
 
 😄 Pronouns: He/Him
 
