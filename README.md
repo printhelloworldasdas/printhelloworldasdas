@@ -1,14 +1,6 @@
-👋 Hi, I’m @printhelloworldasdas
+👋 Hi, I’m @printhelloworldasdas  
+🎂 I’m 17 years old  
+💻 I like making websites and more!
 
-👀 I’m interested in:
-- Trolling viruses 🦠
-- Hacking 🕵️‍♂️
-- Creative coding 🎨
-
-📫 How to reach me:
-- Email: not for now 📧
-- Twitter: i will create 🐦
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I am creating a remake of You Are An Idiot! 😈
+🧠 I know these programming languages:  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
