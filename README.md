@@ -1,6 +1,15 @@
-👋 Hi, I’m @printhelloworldasdas  
-🎂 I’m 17 years old  
-💻 I like making websites and more!
+# 👋 Hi there! I'm @printhelloworldasdas
 
-🧠 I know these programming languages:  
+## 🧑‍💻 About Me
+- 🎂 I'm 17 years old  
+- 🌐 I enjoy making websites and exploring the world of web development  
+- 🗣️ I speak **Spanish** and **English**
+
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+## 🔗 My Links
+- 🎥 [YouTube - Mr.Penguin_Official](https://www.youtube.com/@Mr.Penguin_Official)
+- 🎮 [Twitch - mrpenguin_official](https://www.twitch.tv/mrpenguin_official)
+- 🚀 [Night Launcher (Eaglercraft Launcher)](https://night-launcher-official.vercel.app/)
+- 🎮 [Night Games (Unblocked Games)](https://night-games-unblocked-games.vercel.app/)
