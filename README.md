@@ -8,6 +8,8 @@
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=printhelloworldasdas&show_icons=true&theme=tokyonight)](https://github.com/printhelloworldasdas)
+
 ## 🔗 My Links
 - 🎥 [YouTube - Mr.Penguin_Official](https://www.youtube.com/@Mr.Penguin_Official)  
 - 🎮 [Twitch - mrpenguin_official](https://www.twitch.tv/mrpenguin_official)  
