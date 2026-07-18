@@ -17,4 +17,4 @@
 - 🚀 [Night Launcher (Eaglercraft Launcher)](https://night-launcher-official.vercel.app/)  
 - 🎮 [Night Games (Unblocked Games)](https://night-games-unblocked-games.vercel.app/)  
 - 💬 [My Discord Profile](https://discord.com/users/1091634003360100392)  
-  <img src="https://discord.c99.nl/widget/theme-1/1091634003360100392.png" alt="Discord Widget">
+  <img src="https://discord.c99.nl/widget/theme-1/1498726236749561897.png" alt="Discord Widget">
